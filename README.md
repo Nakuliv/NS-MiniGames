@@ -1,1 +1,1 @@
-unfinished plugin for nightstars minigames server
+# unfinished plugin for nightstars minigames server
